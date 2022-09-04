@@ -1,3 +1,6 @@
 .venv
 *.deb
+*.pyc
+*.png
+*.json
 
